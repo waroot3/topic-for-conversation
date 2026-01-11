@@ -42,6 +42,7 @@ export default function Home() {
             title="アドベントカレンダー"
             description="2025年版の記事はこちら"
             buttonLabel="外部サイトを開く"
+            disabled={true}
             href="https://adventar.org/calendars/11464"
             /* Tags removed per request */
             Icon={Calendar}
