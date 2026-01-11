@@ -1,0 +1,3296 @@
+[
+  {
+    "original_id": 1,
+    "question": "子供の頃、一番好きだった給食のメニューは？",
+    "guide": "揚げパン、ソフト麺、カレーなど…地域差もあって盛り上がります。",
+    "genres": [
+      "oldbook",
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 1
+  },
+  {
+    "original_id": 2,
+    "question": "最近、心に残った景色はありますか？",
+    "guide": "旅行先だけでなく、通勤途中の空や道端の花でもOK。",
+    "genres": [
+      "map",
+      "lamp",
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 2
+  },
+  {
+    "original_id": 3,
+    "question": "もし1ヶ月休みが取れたら、何をしたい？",
+    "guide": "旅行、勉強、ただただ寝る…理想の過ごし方を聞いてみましょう。",
+    "genres": [
+      "bookmark",
+      "map",
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 3
+  },
+  {
+    "original_id": 4,
+    "question": "人生で「これは頑張った」と思える瞬間は？",
+    "guide": "受験、部活、仕事のプロジェクト…熱中した経験を共有。",
+    "genres": [
+      "bookmark",
+      "pen"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 4
+  },
+  {
+    "original_id": 5,
+    "question": "おすすめの「積読」消化方法は？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf",
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 5
+  },
+  {
+    "original_id": 6,
+    "question": "学生時代の部活動、何をしていましたか？",
+    "guide": "意外なスポーツや文化部だったり、ギャップが見つかるかも。",
+    "genres": [
+      "oldbook",
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 6
+  },
+  {
+    "original_id": 7,
+    "question": "最近読んで面白かった本、または観た映画は？",
+    "guide": "作品名だけでなく、「どんな気分の時におすすめ？」と聞くのも◎",
+    "genres": [
+      "shelf",
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 7
+  },
+  {
+    "original_id": 8,
+    "question": "「季節の変わり目」を感じる瞬間はいつ？",
+    "guide": "金木犀の香り、空気の冷たさ、スーパーの品揃え…",
+    "genres": [
+      "leaf",
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 8
+  },
+  {
+    "original_id": 9,
+    "question": "自分へのご褒美、何を買うことが多い？",
+    "guide": "スイーツ、お酒、ガジェット、体験…お金の使い方は価値観が出ます。",
+    "genres": [
+      "mug",
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 9
+  },
+  {
+    "original_id": 10,
+    "question": "つい集めてしまうもの、ありますか？",
+    "guide": "スニーカー、文房具、ガチャガチャ…マニアックな好みがわかります。",
+    "genres": [
+      "cover",
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 10
+  },
+  {
+    "original_id": 11,
+    "question": "「これだけは譲れない」というこだわりは？",
+    "guide": "目玉焼きの調味料、洗濯物の干し方、仕事の道具など。",
+    "genres": [
+      "bookmark",
+      "mug"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 11
+  },
+  {
+    "original_id": 12,
+    "question": "今までで一番緊張した場面は？",
+    "guide": "スピーチ、告白、面接…今だから笑える話かもしれません。",
+    "genres": [
+      "oldbook",
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 12
+  },
+  {
+    "original_id": 13,
+    "question": "理想の「休日の朝」の過ごし方は？",
+    "guide": "早起きしてカフェ？それとも昼まで爆睡？",
+    "genres": [
+      "mug",
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 13
+  },
+  {
+    "original_id": 14,
+    "question": "あなたの「推し」について教えてください。",
+    "guide": "アイドル、アニメキャラ、動物、YouTuber…熱量をぶつけてもらいましょう。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 14
+  },
+  {
+    "original_id": 15,
+    "question": "スマホに入っている写真で、お気に入りの一枚は？",
+    "guide": "ペット、風景、食べ物。見せてもらうと会話が弾みます。",
+    "genres": [
+      "mug",
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 15
+  },
+  {
+    "original_id": 16,
+    "question": "もし宝くじで10億円当たったら、仕事はどうする？",
+    "guide": "即辞める？続ける？起業する？仕事への価値観が見えます。",
+    "genres": [
+      "pen",
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 16
+  },
+  {
+    "original_id": 17,
+    "question": "最近「あ、歳とったな」と思った瞬間は？",
+    "guide": "筋肉痛が遅れて来る、脂っこいものがきつい…共感必須の話題。",
+    "genres": [
+      "sticky",
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 17
+  },
+  {
+    "original_id": 18,
+    "question": "コンビニに入ると、つい見てしまうコーナーは？",
+    "guide": "スイーツ、雑誌、ホットスナック…無意識の習慣。",
+    "genres": [
+      "sticky",
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 18
+  },
+  {
+    "original_id": 19,
+    "question": "好きな「音」はありますか？",
+    "guide": "雨の音、焚き火の音、キーボードを叩く音…癒やしのツボ。",
+    "genres": [
+      "lamp",
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 19
+  },
+  {
+    "original_id": 20,
+    "question": "もう1本腕が生えるとしたら、どこが良いですか",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 20
+  },
+  {
+    "original_id": 21,
+    "question": "今から大学に通うとしたら、どこの大学/学部/学科が良いですか",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 21
+  },
+  {
+    "original_id": 22,
+    "question": "もし改名するとしたら、どのような名字・名前にしたいですか",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 22
+  },
+  {
+    "original_id": 23,
+    "question": "どのような時に季節の始まり/終わりを感じますか",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 23
+  },
+  {
+    "original_id": 24,
+    "question": "面白いことしませんか？って誘ったらギリ行きそうなことってなんですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 24
+  },
+  {
+    "original_id": 25,
+    "question": "メガネ拭きどこのやつ使ってますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 25
+  },
+  {
+    "original_id": 26,
+    "question": "本読む時のお供の飲み物おしえて！",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 26
+  },
+  {
+    "original_id": 27,
+    "question": "一番最近買った本とその理由は？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 27
+  },
+  {
+    "original_id": 28,
+    "question": "無限になにかに時間を使えるとしたらなにがしたいですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 28
+  },
+  {
+    "original_id": 29,
+    "question": "サーティーワンのアイスでアフォガード作って一番美味しいのなんだと思います?",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 29
+  },
+  {
+    "original_id": 30,
+    "question": "火を通す調理で一番食欲そそるのって炙るじゃないですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 30
+  },
+  {
+    "original_id": 31,
+    "question": "ご趣味はなんですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 31
+  },
+  {
+    "original_id": 32,
+    "question": "やってみたい髪型ってありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 32
+  },
+  {
+    "original_id": 33,
+    "question": "あなたのこれまでの人生を2,3時間の映画にするとしたら、何を取り上げますか？配役は誰にしますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 33
+  },
+  {
+    "original_id": 34,
+    "question": "旅行のお土産っていつもどういうのを買ってますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 34
+  },
+  {
+    "original_id": 35,
+    "question": "亡くなった作家にまた書いてもらえるなら、誰がいいですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 35
+  },
+  {
+    "original_id": 36,
+    "question": "あなたの覚えている一番最初の本の思い出は何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 36
+  },
+  {
+    "original_id": 37,
+    "question": "今、1時間誰かと自由に話せるなら誰と話したいですか？（言語の違い、生死を問わず）",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "cover"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 37
+  },
+  {
+    "original_id": 38,
+    "question": "本読む時間帯って決まってる？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 38
+  },
+  {
+    "original_id": 39,
+    "question": "どこで、どういう姿勢で本を読んでますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 39
+  },
+  {
+    "original_id": 40,
+    "question": "好きな生き物について、哺乳類・鳥類・爬虫類・両生類・魚類・節足動物・その他でそれぞれ本気で考えたら何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "cover"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 40
+  },
+  {
+    "original_id": 41,
+    "question": "雑談をする時って、いつもどういう話をしてますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 41
+  },
+  {
+    "original_id": 42,
+    "question": "小学生のころ流行ってた遊びって何でした？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 42
+  },
+  {
+    "original_id": 43,
+    "question": "あなたが人と話したい/聞きたい話題って何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 43
+  },
+  {
+    "original_id": 44,
+    "question": "逆に、話したくない/聞きたくない話題って何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 44
+  },
+  {
+    "original_id": 45,
+    "question": "どこでもドア、タケコプター、もしもボックス、四次元ポケット以外で、何のひみつ道具がほしいですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 45
+  },
+  {
+    "original_id": 46,
+    "question": "かるたの「を」と「ん」ってどう思いますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 46
+  },
+  {
+    "original_id": 47,
+    "question": "つんどっぐの積んでる本、なんだと思いますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 47
+  },
+  {
+    "original_id": 48,
+    "question": "手の届くけどあんまみんなやらない贅沢、何やってみたい？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 48
+  },
+  {
+    "original_id": 49,
+    "question": "初めて良かったことはありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 49
+  },
+  {
+    "original_id": 50,
+    "question": "一生使えないひらがなを一文字決めるとすると何？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 50
+  },
+  {
+    "original_id": 51,
+    "question": "英語以外で何か一つ言語を習得するなら何がいい？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 51
+  },
+  {
+    "original_id": 52,
+    "question": "いつか使ってみたい言葉、フレーズって何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 52
+  },
+  {
+    "original_id": 53,
+    "question": "使わないようにしている言葉、フレーズって何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 53
+  },
+  {
+    "original_id": 54,
+    "question": "積読サロンは1日のどのタイミングでアクセスしますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 54
+  },
+  {
+    "original_id": 55,
+    "question": "最近の悩みごとはありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 55
+  },
+  {
+    "original_id": 56,
+    "question": "一歩踏み出して良かったことはありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 56
+  },
+  {
+    "original_id": 57,
+    "question": "あなたにとって怖いものは何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 57
+  },
+  {
+    "original_id": 58,
+    "question": "あなたが一番心に残っている音は何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 58
+  },
+  {
+    "original_id": 59,
+    "question": "「別れる男に、花の名を一つは教えておきなさい。 花は毎年必ず咲きます。」<br />川端康成『化粧の天使達』より<br />あなたなら、何の花の名前を教えますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 59
+  },
+  {
+    "original_id": 60,
+    "question": "自分の人生の任意のタイミングに戻ってやり直せるとしたら、戻りますか？そしてそれはいつですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 60
+  },
+  {
+    "original_id": 61,
+    "question": "一般的に人に訊きにくいとされていることで、一番人に訊きたいことって何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 61
+  },
+  {
+    "original_id": 62,
+    "question": "ゾンビがはびこる世界で、籠城するならどこですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 62
+  },
+  {
+    "original_id": 63,
+    "question": "一般的には泊まれない場所で、泊まれるならどこに泊まりたいですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 63
+  },
+  {
+    "original_id": 64,
+    "question": "日常を少し豊かにする工夫は何かありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 64
+  },
+  {
+    "original_id": 65,
+    "question": "初めて自分で読んだ本は何ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 65
+  },
+  {
+    "original_id": 66,
+    "question": "イチオシのハックはありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 66
+  },
+  {
+    "original_id": 67,
+    "question": "日常生活の不便なところをなんでもお金で解決できるとしたら、なにを解決しますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 67
+  },
+  {
+    "original_id": 68,
+    "question": "居酒屋のファーストオーダー、これ頼んでるといいね！となるやつ",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 68
+  },
+  {
+    "original_id": 69,
+    "question": "翼が生えるとしたら、どんな翼がいいですか？どこに生やしたいですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 69
+  },
+  {
+    "original_id": 70,
+    "question": "あなたのインサイド・ヘッドにはどんな感情がいますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 70
+  },
+  {
+    "original_id": 71,
+    "question": "名前(Discord名)の由来なんですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 71
+  },
+  {
+    "original_id": 72,
+    "question": "やめられないことはありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 72
+  },
+  {
+    "original_id": 73,
+    "question": "好きな俳優は誰ですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 73
+  },
+  {
+    "original_id": 74,
+    "question": "同性異性に関わらず、この人素敵だなあと思ったエピソードは？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 74
+  },
+  {
+    "original_id": 75,
+    "question": "出身地＋<br />・「どちらにしようかな天の神様の言う通り」の後に続く言葉<br />・ぐーとパーで分かれる時の掛け声<br />・変わった方言",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 75
+  },
+  {
+    "original_id": 76,
+    "question": "住んでみたい都道府県はどこですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 76
+  },
+  {
+    "original_id": 77,
+    "question": "つい言ってしまう口癖はありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 77
+  },
+  {
+    "original_id": 78,
+    "question": "嫌いだけど尊敬している人っていますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "cover"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 78
+  },
+  {
+    "original_id": 79,
+    "question": "朝晩のルーティンはありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 79
+  },
+  {
+    "original_id": 80,
+    "question": "白いごはんの上に何乗せる？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 80
+  },
+  {
+    "original_id": 81,
+    "question": "納得のいかないアニメや漫画などのコンテンツはありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 81
+  },
+  {
+    "original_id": 82,
+    "question": "この小説の表紙をこの漫画家さんorイラストレーターさんに描いてほしい！って組み合わせを教えてください",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 82
+  },
+  {
+    "original_id": 83,
+    "question": "思い出せる中で、一番古い記憶はなんですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 83
+  },
+  {
+    "original_id": 84,
+    "question": "朝読書の時間に読んでた本って何か一冊でも覚えてます？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 84
+  },
+  {
+    "original_id": 85,
+    "question": "テレビが無料で見れるのはCMがあるからって気づいたのいつですか",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 85
+  },
+  {
+    "original_id": 86,
+    "question": "なんだか捨てられないものってありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 86
+  },
+  {
+    "original_id": 87,
+    "question": "どうなったら「大人になる」と思いますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 87
+  },
+  {
+    "original_id": 88,
+    "question": "好きなおにぎりの具を教えてください",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 88
+  },
+  {
+    "original_id": 89,
+    "question": "あなたの人生で『君のクイズ』を考えてみてください",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "pen"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 89
+  },
+  {
+    "original_id": 90,
+    "question": "気をつけている言葉遣いってありますか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 90
+  },
+  {
+    "original_id": 91,
+    "question": "冬っぽいことなんかした？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "積読サロンメンバー",
+    "id": 91
+  },
+  {
+    "original_id": 21,
+    "question": "最近「これは大事にしたいな」と思った小さなことは？",
+    "guide": "物でも習慣でもOK。具体例が出ると会話が広がります。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 92
+  },
+  {
+    "original_id": 22,
+    "question": "「これだけは譲れない」自分ルールってある？",
+    "guide": "軽いルールからでOK。押し付けにならない範囲で。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 93
+  },
+  {
+    "original_id": 23,
+    "question": "一日がちょっと良くなる“自分のスイッチ”は何？",
+    "guide": "音楽・散歩・コーヒーなど、きっかけを聞きます。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 94
+  },
+  {
+    "original_id": 24,
+    "question": "最近「自分ってこういうタイプだな」と気づいたことは？",
+    "guide": "短いエピソードを添えると盛り上がります。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 95
+  },
+  {
+    "original_id": 25,
+    "question": "人から言われて嬉しかった言葉って覚えてる？",
+    "guide": "具体的な場面があると温かい話題になります。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 96
+  },
+  {
+    "original_id": 26,
+    "question": "苦手なことを楽にするために工夫してることある？",
+    "guide": "小さな工夫が共感を呼びやすいです。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 97
+  },
+  {
+    "original_id": 27,
+    "question": "「今の自分」にちょうどいいご褒美って何？",
+    "guide": "高価じゃなくてOK。日常の癒しを聞きます。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 98
+  },
+  {
+    "original_id": 28,
+    "question": "最近、時間を使ってよかったと思うことは？",
+    "guide": "体験・学び・人との時間など何でも。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 99
+  },
+  {
+    "original_id": 29,
+    "question": "子どもの頃から変わらない“好き”って何？",
+    "guide": "食べ物でも趣味でもOK。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 100
+  },
+  {
+    "original_id": 30,
+    "question": "「これは大人になったな」と感じた瞬間は？",
+    "guide": "あるある系でライトに話せます。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 101
+  },
+  {
+    "original_id": 31,
+    "question": "落ち込んだときに戻ってくる“定番”はある？",
+    "guide": "音楽・映画・場所など安心できるものを聞きます。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 102
+  },
+  {
+    "original_id": 32,
+    "question": "他の人のここがすごいと思う、尊敬ポイントは？",
+    "guide": "相手を褒める話題に繋げやすいです。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 103
+  },
+  {
+    "original_id": 33,
+    "question": "最近やめて良かった習慣、始めて良かった習慣は？",
+    "guide": "Before/Afterで話しやすいです。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 104
+  },
+  {
+    "original_id": 34,
+    "question": "好きな“静かな時間”の過ごし方は？",
+    "guide": "読書・散歩・入浴など、秋テーマとも相性◎。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 105
+  },
+  {
+    "original_id": 35,
+    "question": "自分を説明するなら、どんな3つの言葉になる？",
+    "guide": "答えやすいように先に自分の例を出すのも良いです。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 106
+  },
+  {
+    "original_id": 36,
+    "question": "最近「これ、意外と重要だな」と思った価値観は？",
+    "guide": "仕事/生活のどちらでもOK。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 107
+  },
+  {
+    "original_id": 37,
+    "question": "今の生活で“守りたい余白”ってある？",
+    "guide": "休み方や距離感の話に繋げます。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 108
+  },
+  {
+    "original_id": 38,
+    "question": "もし今、子どもの自分に一言言うなら？",
+    "guide": "優しい言葉でまとめると良い空気になります。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 109
+  },
+  {
+    "original_id": 39,
+    "question": "ここ数年で一番変わった考え方って何？",
+    "guide": "変化のきっかけを聞くと深みが出ます。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 110
+  },
+  {
+    "original_id": 40,
+    "question": "人生で「これを知れてよかった」と思うことは？",
+    "guide": "人・本・経験など、広く受け止めます。",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 111
+  },
+  {
+    "original_id": 41,
+    "question": "最近覚えた（または覚えたい）小さなスキルは？",
+    "guide": "料理でもPCでもOK。実用系は会話が続きます。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 112
+  },
+  {
+    "original_id": 42,
+    "question": "仕事や作業で手放せない“相棒ツール”は？",
+    "guide": "アプリ・文房具・ガジェット何でも。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 113
+  },
+  {
+    "original_id": 43,
+    "question": "「これだけは最初にやる」朝の作業ルーティンある？",
+    "guide": "真似したいポイントが出やすいです。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 114
+  },
+  {
+    "original_id": 44,
+    "question": "最近“時短できた”工夫ってある？",
+    "guide": "具体的に何分浮いたか等があると楽しいです。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 115
+  },
+  {
+    "original_id": 45,
+    "question": "学生時代にもっとやっておけば良かった勉強って？",
+    "guide": "今からでもできる話に繋げられます。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 116
+  },
+  {
+    "original_id": 46,
+    "question": "仕事や趣味で“メモ”はどう取ってる？",
+    "guide": "紙派/アプリ派などで盛り上がります。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 117
+  },
+  {
+    "original_id": 47,
+    "question": "最近うまくいった“段取り”の話、ある？",
+    "guide": "成功体験を小さく共有する感じで。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 118
+  },
+  {
+    "original_id": 48,
+    "question": "苦手な作業を乗り切るコツってある？",
+    "guide": "ご褒美・タイマー・音楽など。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 119
+  },
+  {
+    "original_id": 49,
+    "question": "最近見つけた便利ショートカットや小技ある？",
+    "guide": "PCでも家事でもOK。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 120
+  },
+  {
+    "original_id": 50,
+    "question": "「誰かに教えたい」学びや気づきは？",
+    "guide": "押し付けず、軽い発見として。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 121
+  },
+  {
+    "original_id": 51,
+    "question": "一番最初に身につけた“得意”って何だった？",
+    "guide": "子ども時代の話に接続できます。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 122
+  },
+  {
+    "original_id": 52,
+    "question": "今ちょっと挑戦してみたいことは？",
+    "guide": "難易度低めから聞くと答えやすいです。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 123
+  },
+  {
+    "original_id": 53,
+    "question": "あなたの“集中スイッチ”は何？",
+    "guide": "場所・音・時間帯など。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 124
+  },
+  {
+    "original_id": 54,
+    "question": "仕事/勉強で、最近ハマってるやり方は？",
+    "guide": "テンプレ・チェックリストなど具体化。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 125
+  },
+  {
+    "original_id": 55,
+    "question": "最近読んだ（見た）“ためになる”コンテンツは？",
+    "guide": "本/動画/記事など媒体自由。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 126
+  },
+  {
+    "original_id": 56,
+    "question": "自分の強みって、どうやって見つけた？",
+    "guide": "きっかけの話が深めで良いです。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 127
+  },
+  {
+    "original_id": 57,
+    "question": "失敗から学んだ“今ではありがたい教訓”は？",
+    "guide": "重くならない範囲で短めに。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 128
+  },
+  {
+    "original_id": 58,
+    "question": "理想の働き方/学び方に近づくためにしてることは？",
+    "guide": "小さな工夫で十分です。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 129
+  },
+  {
+    "original_id": 59,
+    "question": "あなたにとって“成長してる感”ってどんな瞬間？",
+    "guide": "指標の話にすると深まります。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 130
+  },
+  {
+    "original_id": 60,
+    "question": "今までで一番影響を受けた先生/先輩の教えは？",
+    "guide": "言葉やエピソードがあると良いです。",
+    "genres": [
+      "pen"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 131
+  },
+  {
+    "original_id": 61,
+    "question": "最近「へぇ！」ってなった豆知識は？",
+    "guide": "ほんの一言の雑学でOK。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 132
+  },
+  {
+    "original_id": 62,
+    "question": "好きな“雑学ジャンル”ってある？",
+    "guide": "宇宙・生き物・食など、範囲だけでも。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 133
+  },
+  {
+    "original_id": 63,
+    "question": "最近見た「意外なランキング」ってある？",
+    "guide": "食べ物/都道府県/アニメなど何でも。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 134
+  },
+  {
+    "original_id": 64,
+    "question": "身近なもので「実は名前がある」って知ってた？",
+    "guide": "例を出し合うと盛り上がります。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 135
+  },
+  {
+    "original_id": 65,
+    "question": "子どもの頃に信じてた“謎ルール”ってあった？",
+    "guide": "地域差ネタに繋がります。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 136
+  },
+  {
+    "original_id": 66,
+    "question": "最近知った“言葉の由来”ってある？",
+    "guide": "ことわざや言い回しでも。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 137
+  },
+  {
+    "original_id": 67,
+    "question": "よく見るけど意味を知らない言葉、ある？",
+    "guide": "その場で調べる遊びにもできます。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 138
+  },
+  {
+    "original_id": 68,
+    "question": "好きな“音”ってある？（雨音、焚き火など）",
+    "guide": "感覚系は平和で盛り上がります。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 139
+  },
+  {
+    "original_id": 69,
+    "question": "最近「これは便利だ！」と思った小物は？",
+    "guide": "100均・文房具・キッチン用品など。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 140
+  },
+  {
+    "original_id": 70,
+    "question": "昔の流行で、今見ると面白いものって？",
+    "guide": "テレビ/ゲーム/ファッションなど。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 141
+  },
+  {
+    "original_id": 71,
+    "question": "好きな“香り”は？（パン、コーヒー、木の匂い）",
+    "guide": "季節感も出しやすいです。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 142
+  },
+  {
+    "original_id": 72,
+    "question": "最近笑った“ちょっとした出来事”ある？",
+    "guide": "短い小話がちょうどいいです。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 143
+  },
+  {
+    "original_id": 73,
+    "question": "子ども時代の“学校あるある”で一番印象的なのは？",
+    "guide": "地域差や年代差が出ます。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 144
+  },
+  {
+    "original_id": 74,
+    "question": "「これ、意外と奥が深い」と思うものは？",
+    "guide": "例：コーヒー、塩、だし…など。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 145
+  },
+  {
+    "original_id": 75,
+    "question": "好きな“例えツッコミ”や言い回しってある？",
+    "guide": "無理に真似しない前提で。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 146
+  },
+  {
+    "original_id": 76,
+    "question": "最近知った“ちょっと得する”知恵は？",
+    "guide": "生活の小技が安全で盛り上がる。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 147
+  },
+  {
+    "original_id": 77,
+    "question": "「実は苦手」な食べ物の意外な理由は？",
+    "guide": "味以外（食感/匂い）もOK。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 148
+  },
+  {
+    "original_id": 78,
+    "question": "よくやる“癖”ってある？（指パキパキ等）",
+    "guide": "ライトで話しやすいです。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 149
+  },
+  {
+    "original_id": 79,
+    "question": "最近見つけた“地味に嬉しい改善”は？",
+    "guide": "生活が楽になった話を拾います。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 150
+  },
+  {
+    "original_id": 80,
+    "question": "子どもの頃の「なりたかった職業」、覚えてる？",
+    "guide": "そこから今の話に繋げます。",
+    "genres": [
+      "sticky"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 151
+  },
+  {
+    "original_id": 81,
+    "question": "最近ちょっと気になって追いかけてるものは？",
+    "guide": "作品・趣味・買い物候補などでOK。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 152
+  },
+  {
+    "original_id": 82,
+    "question": "最近の「これ、いいな」と思ったアイデアは？",
+    "guide": "アプリ・商品・仕組みなど。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 153
+  },
+  {
+    "original_id": 83,
+    "question": "最近ハマってるYouTube/配信のジャンルは？",
+    "guide": "チャンネル名が出なくてもOK。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 154
+  },
+  {
+    "original_id": 84,
+    "question": "今、気になってる場所（お店/スポット）は？",
+    "guide": "行ってみたい理由を聞くと続きます。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 155
+  },
+  {
+    "original_id": 85,
+    "question": "最近「やってみたい」と思った体験は？",
+    "guide": "ワークショップ、料理教室など。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 156
+  },
+  {
+    "original_id": 86,
+    "question": "最近の“癒し”コンテンツは何？",
+    "guide": "音楽、ラジオ、漫画でも。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 157
+  },
+  {
+    "original_id": 87,
+    "question": "気になってるガジェット/便利道具ある？",
+    "guide": "買うか迷ってる話は盛り上がります。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 158
+  },
+  {
+    "original_id": 88,
+    "question": "最近「これ大事」と思った健康習慣は？",
+    "guide": "一般的な範囲で。医療相談にはしない。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 159
+  },
+  {
+    "original_id": 89,
+    "question": "最近、音楽の好みが変わったと思う？",
+    "guide": "変化のきっかけを聞きます。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 160
+  },
+  {
+    "original_id": 90,
+    "question": "最近見た景色で「また見たい」と思ったものは？",
+    "guide": "写真があれば見せ合うのも◎。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 161
+  },
+  {
+    "original_id": 91,
+    "question": "最近の“推し調味料”ってある？",
+    "guide": "食の話題へつなげます。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 162
+  },
+  {
+    "original_id": 92,
+    "question": "今の季節にしたいこと、何かある？",
+    "guide": "秋散歩、温泉など。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 163
+  },
+  {
+    "original_id": 93,
+    "question": "最近観た/読んだ中でおすすめの1つは？",
+    "guide": "理由を一言添えると良いです。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 164
+  },
+  {
+    "original_id": 94,
+    "question": "最近「これをやめたら楽になった」ことは？",
+    "guide": "小さな生活改善がテーマ。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 165
+  },
+  {
+    "original_id": 95,
+    "question": "最近、集中できた“場所”や“時間帯”は？",
+    "guide": "環境の話になって広がります。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 166
+  },
+  {
+    "original_id": 96,
+    "question": "最近の自分の関心は何に向いてると思う？",
+    "guide": "気づきの話で少し深め。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 167
+  },
+  {
+    "original_id": 97,
+    "question": "今の生活で“もっと増やしたい時間”は？",
+    "guide": "余白/運動/睡眠など。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 168
+  },
+  {
+    "original_id": 98,
+    "question": "最近「人って面白いな」と思った瞬間は？",
+    "guide": "人間観察の話として。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 169
+  },
+  {
+    "original_id": 99,
+    "question": "今後やってみたいことの優先順位って何で決める？",
+    "guide": "価値基準の話になって深まります。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 170
+  },
+  {
+    "original_id": 100,
+    "question": "ここ1年で一番ワクワクした“新しいこと”は？",
+    "guide": "思い出に繋げるのもOK。",
+    "genres": [
+      "lamp"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 171
+  },
+  {
+    "original_id": 101,
+    "question": "朝の定番ルーティンってある？",
+    "guide": "飲み物・音楽・ストレッチなど。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 172
+  },
+  {
+    "original_id": 102,
+    "question": "最近の“自分を甘やかすメニュー”は？",
+    "guide": "コンビニでも手作りでもOK。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 173
+  },
+  {
+    "original_id": 103,
+    "question": "家で一番落ち着く場所はどこ？",
+    "guide": "椅子、布団、キッチンなど。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 174
+  },
+  {
+    "original_id": 104,
+    "question": "今の季節、つい選んじゃう飲み物は？",
+    "guide": "温かい/冷たいで話が広がります。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 175
+  },
+  {
+    "original_id": 105,
+    "question": "最近「これ買ってよかった」日用品は？",
+    "guide": "消耗品だと真似しやすいです。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 176
+  },
+  {
+    "original_id": 106,
+    "question": "休日の“理想の午前中”ってどんな感じ？",
+    "guide": "起床時間から聞くと具体化。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 177
+  },
+  {
+    "original_id": 107,
+    "question": "自炊するときの得意料理（または定番）は？",
+    "guide": "得意じゃなくてもOK。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 178
+  },
+  {
+    "original_id": 108,
+    "question": "好きな“おにぎりの具”は？",
+    "guide": "ライトで盛り上がる鉄板。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 179
+  },
+  {
+    "original_id": 109,
+    "question": "疲れた日に頼る“回復ルート”は？",
+    "guide": "風呂→睡眠→甘いもの等。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 180
+  },
+  {
+    "original_id": 110,
+    "question": "最近ハマってるコンビニ/スーパーの定番ある？",
+    "guide": "商品名が出ると盛り上がります。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 181
+  },
+  {
+    "original_id": 111,
+    "question": "家にあると安心するストックは？",
+    "guide": "お茶、米、缶詰…など。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 182
+  },
+  {
+    "original_id": 112,
+    "question": "洗濯/掃除で“これだけは好き”な作業ある？",
+    "guide": "逆に嫌いもOK。軽く。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 183
+  },
+  {
+    "original_id": 113,
+    "question": "最近の“ちょい幸せ”を感じた瞬間は？",
+    "guide": "小さい出来事がテーマ。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 184
+  },
+  {
+    "original_id": 114,
+    "question": "家の中で好きな“香り”は？",
+    "guide": "柔軟剤、アロマ、料理など。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 185
+  },
+  {
+    "original_id": 115,
+    "question": "好きな“夜更かし”の過ごし方は？",
+    "guide": "映画、ゲーム、読書など。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 186
+  },
+  {
+    "original_id": 116,
+    "question": "日常で「丁寧にしたい」と思ってることは？",
+    "guide": "食事、睡眠、人付き合いなど。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 187
+  },
+  {
+    "original_id": 117,
+    "question": "自分の機嫌を取るのが上手い人ってどんな人？",
+    "guide": "観察から学んだ話に。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 188
+  },
+  {
+    "original_id": 118,
+    "question": "今の生活で“手放したい”もの（習慣/物）は？",
+    "guide": "無理せずライトに。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 189
+  },
+  {
+    "original_id": 119,
+    "question": "忙しいときでも大事にしたい時間は？",
+    "guide": "優先順位の話で深まります。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 190
+  },
+  {
+    "original_id": 120,
+    "question": "最近「ありがたいな」と感じた日常のことは？",
+    "guide": "感謝系で平和に締まります。",
+    "genres": [
+      "mug"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 191
+  },
+  {
+    "original_id": 121,
+    "question": "今いちばん行ってみたい場所は？（国内/海外どちらでも）",
+    "guide": "理由を聞くと話が広がります。",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 192
+  },
+  {
+    "original_id": 122,
+    "question": "旅行に行くとき、計画派？行き当たりばったり派？",
+    "guide": "タイプ診断っぽく楽しく話せます。",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 193
+  },
+  {
+    "original_id": 123,
+    "question": "好きな“旅の目的”は何？（食、温泉、街歩き…）",
+    "guide": "複数あってもOK。",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 194
+  },
+  {
+    "original_id": 124,
+    "question": "今までで一番よかった宿/ホテルの思い出は？",
+    "guide": "設備やご飯の話が盛り上がります。",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 195
+  },
+  {
+    "original_id": 125,
+    "question": "地元の人におすすめしたい場所、どこ？",
+    "guide": "地元トークは強いです。",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 196
+  },
+  {
+    "original_id": 126,
+    "question": "「また行きたい」と思った街の共通点ってある？",
+    "guide": "雰囲気や人など。",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 197
+  },
+  {
+    "original_id": 127,
+    "question": "旅先で必ず買うものってある？",
+    "guide": "お土産の定番で盛り上がる。",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 198
+  },
+  {
+    "original_id": 128,
+    "question": "行ってみたい“食の名所”は？",
+    "guide": "具体名が出なくてもOK。",
+    "genres": [
+      "map"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 199
+  },
+  {
+    "original_id": 129,
+    "question": "日帰りで行ける範囲なら、どこに行きたい？",
+    "guide": "現実的で話しやすい。",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 200
+  },
+  {
+    "original_id": 130,
+    "question": "旅行中の朝は早い？ゆっくり？",
+    "guide": "スケジュール感を共有。",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 201
+  },
+  {
+    "original_id": 131,
+    "question": "地図アプリでつい見ちゃう場所ってある？",
+    "guide": "行きたいリストの話に。",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 202
+  },
+  {
+    "original_id": 132,
+    "question": "旅先で「これが一番楽しい」瞬間は？",
+    "guide": "移動中、食事、散歩など。",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 203
+  },
+  {
+    "original_id": 133,
+    "question": "乗り物で好きなのは？（電車/車/飛行機/船）",
+    "guide": "理由がそれぞれ面白いです。",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 204
+  },
+  {
+    "original_id": 134,
+    "question": "行ってよかった“季節の旅”は？",
+    "guide": "桜、紅葉、雪など。",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 205
+  },
+  {
+    "original_id": 135,
+    "question": "旅の失敗談で笑えるやつ、ある？",
+    "guide": "重くならない範囲で。",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 206
+  },
+  {
+    "original_id": 136,
+    "question": "行きたい場所を選ぶ基準って何？",
+    "guide": "目的・予算・気分など深め。",
+    "genres": [
+      "map"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 207
+  },
+  {
+    "original_id": 137,
+    "question": "旅で「自分ってこうだな」と気づくことある？",
+    "guide": "性格の話になって深まります。",
+    "genres": [
+      "map"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 208
+  },
+  {
+    "original_id": 138,
+    "question": "“いつか行きたい”を叶えるなら、最初の一歩は？",
+    "guide": "調べる/貯金/休み確保など。",
+    "genres": [
+      "map"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 209
+  },
+  {
+    "original_id": 139,
+    "question": "旅行で一番記憶に残るのは何？景色？人？食？",
+    "guide": "価値観が出て深い話に。",
+    "genres": [
+      "map"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 210
+  },
+  {
+    "original_id": 140,
+    "question": "旅って自分にとって何のためにあると思う？",
+    "guide": "言語化すると面白いです。",
+    "genres": [
+      "map"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 211
+  },
+  {
+    "original_id": 141,
+    "question": "春になると「つい買っちゃう」ものってある？",
+    "guide": "桜味、花粉対策、春服など…季節のあるあるで話しやすいです。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 212
+  },
+  {
+    "original_id": 142,
+    "question": "春の楽しみなイベントは？（花見/新生活/散歩など）",
+    "guide": "過去の思い出でもOK。気軽な話から入れます。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 213
+  },
+  {
+    "original_id": 143,
+    "question": "春に聴きたくなる曲や、春っぽいBGMってある？",
+    "guide": "アーティスト名がなくても“雰囲気”だけでOK。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 214
+  },
+  {
+    "original_id": 144,
+    "question": "春の“好きな匂い”ってある？",
+    "guide": "雨上がり、土の匂い、花の香りなど感覚系で平和です。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 215
+  },
+  {
+    "original_id": 145,
+    "question": "春に食べたくなるものは？",
+    "guide": "たけのこ、いちご、菜の花…など好みを聞くと広がります。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 216
+  },
+  {
+    "original_id": 146,
+    "question": "夏になるとやりたくなることって何？",
+    "guide": "海でも家でもOK。かき氷や夜風など小さめで。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 217
+  },
+  {
+    "original_id": 147,
+    "question": "夏の暑さ対策で「これが最強」ってある？",
+    "guide": "扇風機、冷感グッズ、食べ物…おすすめ交換ができます。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 218
+  },
+  {
+    "original_id": 148,
+    "question": "夏に食べたいものベスト3は？",
+    "guide": "そうめん、スイカ、アイス…軽くランキング形式に。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 219
+  },
+  {
+    "original_id": 149,
+    "question": "夏の思い出で、今でも笑える出来事ある？",
+    "guide": "重くならない範囲で“夏あるある”を共有します。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 220
+  },
+  {
+    "original_id": 150,
+    "question": "夏の夜の過ごし方、好きなのはどれ？（花火/散歩/映画など）",
+    "guide": "静かな夏派か、イベント派かで会話が続きます。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 221
+  },
+  {
+    "original_id": 151,
+    "question": "秋になると食べたくなるものは？",
+    "guide": "栗、さつまいも、きのこ…など定番で盛り上がります。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 222
+  },
+  {
+    "original_id": 152,
+    "question": "秋の散歩で寄り道したくなる場所は？",
+    "guide": "パン屋、カフェ、公園、古本屋など。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 223
+  },
+  {
+    "original_id": 153,
+    "question": "この時期にしたいことってある？（温泉/読書/模様替え）",
+    "guide": "“秋の夜長”の話に繋げやすいです。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 224
+  },
+  {
+    "original_id": 154,
+    "question": "秋の服装で好きな素材や色は？",
+    "guide": "ニット、チェック、くすみ色など“秋っぽさ”を聞きます。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 225
+  },
+  {
+    "original_id": 155,
+    "question": "今年の秋、もし1日自由なら何をする？",
+    "guide": "遠出でも近場でもOK。具体化すると楽しいです。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 226
+  },
+  {
+    "original_id": 156,
+    "question": "冬になると「これがないと無理」なアイテムは？",
+    "guide": "カイロ、加湿器、鍋…生活の工夫が聞けます。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 227
+  },
+  {
+    "original_id": 157,
+    "question": "冬に食べたい定番メニューは？",
+    "guide": "鍋の具や味付けの好みで盛り上がります。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 228
+  },
+  {
+    "original_id": 158,
+    "question": "冬の朝を気持ちよく始めるコツ、ある？",
+    "guide": "起き方・飲み物・暖房など現実的で話しやすいです。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 229
+  },
+  {
+    "original_id": 159,
+    "question": "冬の“好きな音”や雰囲気ってある？",
+    "guide": "雪の静けさ、ストーブの音など感覚系でまったり。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 230
+  },
+  {
+    "original_id": 160,
+    "question": "一年を通して、どの季節が一番好き？理由は？",
+    "guide": "春夏秋冬それぞれの良さを引き出せます。",
+    "genres": [
+      "leaf"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 231
+  },
+  {
+    "original_id": 161,
+    "question": "最近ハマってる趣味は？",
+    "guide": "始めたきっかけを聞くと続きます。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 232
+  },
+  {
+    "original_id": 162,
+    "question": "「推し」がいるなら、推しポイントを3つ教えて！",
+    "guide": "熱量は相手に合わせてライトに。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 233
+  },
+  {
+    "original_id": 163,
+    "question": "休日に時間を溶かしがちなことは？",
+    "guide": "ゲーム、動画、散歩など。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 234
+  },
+  {
+    "original_id": 164,
+    "question": "最近見つけた“好きな店”ってある？",
+    "guide": "カフェ、古着、雑貨など。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 235
+  },
+  {
+    "original_id": 165,
+    "question": "好きなスポーツ/観戦スタイルは？",
+    "guide": "やる派/見る派もOK。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 236
+  },
+  {
+    "original_id": 166,
+    "question": "つい集めちゃうものってある？",
+    "guide": "缶バッジ、マグネットなど。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 237
+  },
+  {
+    "original_id": 167,
+    "question": "最近のマイブーム（食以外）を教えて",
+    "guide": "アプリ、運動、整理など。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 238
+  },
+  {
+    "original_id": 168,
+    "question": "一番テンションが上がる休日の予定は？",
+    "guide": "“何もしない”も立派な回答。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 239
+  },
+  {
+    "original_id": 169,
+    "question": "最近聴いてる音楽のタイプは？",
+    "guide": "アーティスト名がなくてもOK。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 240
+  },
+  {
+    "original_id": 170,
+    "question": "好きな漫画/アニメの“刺さったポイント”は？",
+    "guide": "キャラ、セリフ、世界観など。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 241
+  },
+  {
+    "original_id": 171,
+    "question": "「沼った」趣味ってある？",
+    "guide": "どこが入口だったか聞くと面白いです。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 242
+  },
+  {
+    "original_id": 172,
+    "question": "昔ハマってた趣味、今やるとどう感じる？",
+    "guide": "懐かしさで盛り上がる。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 243
+  },
+  {
+    "original_id": 173,
+    "question": "趣味に使う“こだわり道具”ある？",
+    "guide": "小物の話は安全。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 244
+  },
+  {
+    "original_id": 174,
+    "question": "好きな“イベント”や“フェス”ってある？",
+    "guide": "行ったことがなくても憧れでOK。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 245
+  },
+  {
+    "original_id": 175,
+    "question": "最近おすすめしたい作品（映画/ドラマ/本）は？",
+    "guide": "ネタバレなしで推すのがコツ。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 246
+  },
+  {
+    "original_id": 176,
+    "question": "趣味を続ける上で大事にしてることは？",
+    "guide": "ペースや楽しみ方の話に。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 247
+  },
+  {
+    "original_id": 177,
+    "question": "「好き」を人に話すとき、どこまで話す？",
+    "guide": "距離感の話で深まります。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 248
+  },
+  {
+    "original_id": 178,
+    "question": "趣味があることで、自分の何が変わった？",
+    "guide": "生活の変化がテーマ。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 249
+  },
+  {
+    "original_id": 179,
+    "question": "いま「これがあると幸せ」と思う趣味時間は？",
+    "guide": "週のどこで確保してるかも。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 250
+  },
+  {
+    "original_id": 180,
+    "question": "推しがいることで、自分に起きた良いことは？",
+    "guide": "感情の整理で深め。",
+    "genres": [
+      "cover"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 251
+  },
+  {
+    "original_id": 181,
+    "question": "小学校の頃の“得意科目”って何だった？",
+    "guide": "先生の話も出ると懐かしいです。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 252
+  },
+  {
+    "original_id": 182,
+    "question": "子どもの頃の“好きなおやつ”ベスト1は？",
+    "guide": "地域差が出やすいです。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 253
+  },
+  {
+    "original_id": 183,
+    "question": "昔よく見てたテレビ番組（または漫画）は？",
+    "guide": "世代差で盛り上がります。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 254
+  },
+  {
+    "original_id": 184,
+    "question": "子どもの頃の“怖かったもの”って何？",
+    "guide": "軽めに、笑える範囲で。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 255
+  },
+  {
+    "original_id": 185,
+    "question": "部活や習い事の思い出は？",
+    "guide": "一番しんどかった/楽しかったで話しやすい。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 256
+  },
+  {
+    "original_id": 186,
+    "question": "昔、家にあった“謎のルール”って？",
+    "guide": "家庭ごとの違いが面白いです。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 257
+  },
+  {
+    "original_id": 187,
+    "question": "子どもの頃の“秘密基地”って作った？",
+    "guide": "場所や作り方を聞くと楽しい。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 258
+  },
+  {
+    "original_id": 188,
+    "question": "初めて買ってもらったゲーム/おもちゃ覚えてる？",
+    "guide": "当時の気持ちを聞くと温かい。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 259
+  },
+  {
+    "original_id": 189,
+    "question": "学生時代に一番好きだった行事は？",
+    "guide": "文化祭・修学旅行など。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 260
+  },
+  {
+    "original_id": 190,
+    "question": "子どもの頃の夢（職業）って何だった？",
+    "guide": "今と比べて話せます。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 261
+  },
+  {
+    "original_id": 191,
+    "question": "昔の“マイブーム”は何？",
+    "guide": "カード、シール、玩具など。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 262
+  },
+  {
+    "original_id": 192,
+    "question": "学生時代の“忘れられない先生”っている？",
+    "guide": "エピソードが出ると盛り上がります。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 263
+  },
+  {
+    "original_id": 193,
+    "question": "昔好きだった本（絵本でもOK）は？",
+    "guide": "タイトルが出なくても内容でOK。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 264
+  },
+  {
+    "original_id": 194,
+    "question": "子どもの頃の“夏休みあるある”で覚えてるのは？",
+    "guide": "宿題、ラジオ体操など。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 265
+  },
+  {
+    "original_id": 195,
+    "question": "家族の定番行事ってあった？",
+    "guide": "誕生日の祝い方など平和系。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 266
+  },
+  {
+    "original_id": 196,
+    "question": "過去の自分に「よくやった」と言いたいことは？",
+    "guide": "照れない範囲で短く。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 267
+  },
+  {
+    "original_id": 197,
+    "question": "あの頃の友達って、今の自分に何を残してると思う？",
+    "guide": "人間関係の深め話に。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 268
+  },
+  {
+    "original_id": 198,
+    "question": "昔の自分を形作った出来事って何かある？",
+    "guide": "大事件じゃなくてOK。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 269
+  },
+  {
+    "original_id": 199,
+    "question": "「あの頃に戻りたい」と思う瞬間はどんなとき？",
+    "guide": "理由を言語化すると深いです。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 270
+  },
+  {
+    "original_id": 200,
+    "question": "思い出って、自分にとってどんな役割があると思う？",
+    "guide": "少し哲学寄りで深め。",
+    "genres": [
+      "oldbook"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 271
+  },
+  {
+    "original_id": 201,
+    "question": "最近見た映画/ドラマでおすすめは？",
+    "guide": "ネタバレなしで魅力を一言。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 272
+  },
+  {
+    "original_id": 202,
+    "question": "好きな“繰り返し観る作品”はある？",
+    "guide": "安心する作品は話が広がる。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 273
+  },
+  {
+    "original_id": 203,
+    "question": "好きな本のジャンルは？（小説/実用/漫画など）",
+    "guide": "最近読んだ1冊があると良いです。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 274
+  },
+  {
+    "original_id": 204,
+    "question": "最近読んで良かった記事やエッセイは？",
+    "guide": "短い媒体でもOK。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 275
+  },
+  {
+    "original_id": 205,
+    "question": "好きな音楽の“聴き方”は？（作業用/一人で/ライブ）",
+    "guide": "聴くシーンを聞くと具体的。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 276
+  },
+  {
+    "original_id": 206,
+    "question": "映画館派？家で派？理由は？",
+    "guide": "タイプで会話が続きます。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 277
+  },
+  {
+    "original_id": 207,
+    "question": "好きな“主人公像”ってある？",
+    "guide": "強い/弱い/成長型など。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 278
+  },
+  {
+    "original_id": 208,
+    "question": "最近「この表現すごい」と思ったものは？",
+    "guide": "セリフ、映像、文章など。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "light",
+    "status": "normal",
+    "id": 279
+  },
+  {
+    "original_id": 209,
+    "question": "おすすめしたい漫画の“入り口巻”は？",
+    "guide": "初心者向け紹介で盛り上がる。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 280
+  },
+  {
+    "original_id": 210,
+    "question": "最近ハマってるラジオ/ポッドキャストある？",
+    "guide": "番組名がなくてもジャンルで。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 281
+  },
+  {
+    "original_id": 211,
+    "question": "好きな“泣ける作品”ってある？",
+    "guide": "重くならない範囲で。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 282
+  },
+  {
+    "original_id": 212,
+    "question": "昔好きだった作品を今見ると、どう感じる？",
+    "guide": "視点の変化が面白い。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 283
+  },
+  {
+    "original_id": 213,
+    "question": "あなたにとって“良い物語”って何が必要？",
+    "guide": "価値観の話で深めに。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 284
+  },
+  {
+    "original_id": 214,
+    "question": "好きな“脇役”タイプは？",
+    "guide": "作品話に繋げやすい。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 285
+  },
+  {
+    "original_id": 215,
+    "question": "読書するとき、紙派？電子派？",
+    "guide": "理由で盛り上がります。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 286
+  },
+  {
+    "original_id": 216,
+    "question": "作品に影響を受けて変わったことある？",
+    "guide": "行動が変わった話で深め。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "normal",
+    "status": "normal",
+    "id": 287
+  },
+  {
+    "original_id": 217,
+    "question": "物語から学ぶのって、どんなところだと思う？",
+    "guide": "人生観に繋げられます。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 288
+  },
+  {
+    "original_id": 218,
+    "question": "あなたの“心の本棚”にずっとある作品は？",
+    "guide": "何度も戻る作品の話。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 289
+  },
+  {
+    "original_id": 219,
+    "question": "文化（本/映画/音楽）は自分をどう支えてると思う？",
+    "guide": "少し深めの雑談に。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 290
+  },
+  {
+    "original_id": 220,
+    "question": "「好き」を共有できる相手って、何が嬉しい？",
+    "guide": "コミュニケーションの話で深め。",
+    "genres": [
+      "shelf"
+    ],
+    "depth": "deep",
+    "status": "normal",
+    "id": 291
+  }
+]

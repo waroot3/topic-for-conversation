@@ -1,27 +1,20 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  /* Autumn Palette */
+  --color-cream: #fcfaf2;
+  --color-autumn-red: #d96c6c;
+  --color-deep-green: #2d4036;
+  --color-ink: #333333;
+  --color-text: var(--color-ink);
+  --color-background: var(--color-cream);
+  --color-shadow: rgba(0, 0, 0, 0.05);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+  /* Fonts */
+  --font-serif: "Shippori Mincho", "Noto Serif JP", serif;
 
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  /* Spacing & Layout */
+  --corner-radius: 12px;
+  --book-margin: 2rem;
+  --max-width: 600px; /* Mobile/Tablet friendly book size */
 }
 
 * {
@@ -30,13 +23,46 @@ body {
   margin: 0;
 }
 
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: var(--font-serif);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 a {
   color: inherit;
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+/* Utilities */
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.button {
+  background: var(--color-autumn-red);
+  color: white;
+  padding: 0.8rem 2rem;
+  border-radius: 2rem;
+  border: none;
+  font-family: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px var(--color-shadow);
+  transition: transform 0.2s, background 0.2s;
+}
+
+.button:hover {
+  transform: translateY(-2px);
+  background: #c55a5a;
 }

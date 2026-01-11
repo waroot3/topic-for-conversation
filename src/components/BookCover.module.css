@@ -1,0 +1,250 @@
+:root {
+    --book-width: 350px;
+    --book-height: 500px;
+    --book-thick: 70px;
+    --cover-thick: 8px;
+    --spine-color: #5c2020;
+    --cover-color: #7a2b2b;
+}
+
+.scene {
+    width: var(--book-width);
+    height: var(--book-height);
+    perspective: 2500px;
+    margin: 0 auto;
+    cursor: pointer;
+    position: relative;
+    /* Fixed perspective */
+    transform: translateY(40px) rotateX(40deg);
+    transition: transform 1.2s ease-in;
+    touch-action: manipulation;
+    z-index: 10;
+}
+
+.scene.opening {
+    transform: translateY(40px) rotateX(40deg);
+}
+
+.scene.zooming {
+    transform: scale(8) translateY(100px) rotateX(0deg);
+    opacity: 0;
+}
+
+.book {
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+/* === STATIC BODY === */
+.bookBody {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+}
+
+.backCover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: var(--cover-color);
+    transform: translateZ(-2px);
+    box-shadow: 0 40px 60px rgba(0, 0, 0, 0.5);
+}
+
+/* Page Block Faces */
+.pageBlock {
+    position: absolute;
+    width: 95%;
+    height: 95%;
+    top: 2.5%;
+    left: 0;
+    transform: translateZ(var(--cover-thick));
+    transform-style: preserve-3d;
+}
+
+.blockFaceRight {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: var(--book-thick);
+    height: 100%;
+    background: repeating-linear-gradient(to right, #e0d8c0 0px, #f5f0e0 1px, #d0c8b0 3px);
+    transform: rotateY(90deg);
+    transform-origin: right;
+}
+
+.blockFaceBottom {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: var(--book-thick);
+    background: repeating-linear-gradient(to bottom, #e0d8c0 0px, #f5f0e0 1px, #d0c8b0 3px);
+    transform: rotateX(-90deg);
+    transform-origin: bottom;
+}
+
+.blockFaceTop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: var(--book-thick);
+    background: repeating-linear-gradient(to top, #e0d8c0 0px, #f5f0e0 1px, #d0c8b0 3px);
+    transform: rotateX(90deg);
+    transform-origin: top;
+}
+
+.bodyPage {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #fffdf5;
+    transform: translateZ(var(--book-thick));
+    box-shadow: inset 15px 0 30px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform-style: preserve-3d;
+}
+
+.spine {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: var(--book-thick);
+    height: 100%;
+    background: var(--spine-color);
+    transform-origin: left;
+    transform: rotateY(-90deg);
+    background-image: linear-gradient(to right, #3d1414, #5c2020 30%, #5c2020 70%, #3d1414);
+    border: 1px solid #3d1414;
+}
+
+/* === FRONT COVER === */
+.frontCoverGroup {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    transform-style: preserve-3d;
+    transform-origin: left;
+    transform: translateZ(calc(var(--book-thick) + var(--cover-thick)));
+    transition: transform 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.scene.opening .frontCoverGroup {
+    transform: translateZ(calc(var(--book-thick) + var(--cover-thick))) rotateY(-180deg);
+}
+
+.front {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: var(--cover-color);
+    backface-visibility: hidden;
+    transform: translateZ(1px);
+    border: 1px solid #5c2020;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.6);
+}
+
+.frontInside {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #f5f0e0;
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+    box-shadow: inset 5px 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 2.2rem;
+    color: #d4af37;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    border: 1px solid #d4af37;
+    padding: 1rem 2rem;
+    background: rgba(0, 0, 0, 0.2);
+    letter-spacing: 0.2rem;
+    margin-bottom: 2rem;
+}
+
+.tapHint {
+    position: absolute;
+    bottom: 40px;
+    color: #d4af37;
+    font-size: 0.8rem;
+    letter-spacing: 2px;
+}
+
+/* POPUPS */
+.popupContainer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    transform-style: preserve-3d;
+}
+
+.popupItem {
+    position: absolute;
+    opacity: 0;
+    transform: rotateX(-90deg) scale(0);
+    transform-origin: bottom center;
+    transition: all 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+    backface-visibility: visible;
+}
+
+.scene.popup .popupItem {
+    opacity: 1;
+    transform: translateZ(140px) scale(1);
+}
+
+/* Removed word/icon specific classes */
+
+.mainPopup {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 2rem 3rem;
+    border: 3px double #d4af37;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    pointer-events: auto;
+}
+
+.scene.popup .mainPopup {
+    transform: translate(-50%, -50%) translateZ(180px) scale(1);
+    /* Slightly faster appearance, no long 3s wait */
+    transition-delay: 0.2s !important;
+}
+
+.actionButton {
+    background: var(--cover-color);
+    color: #d4af37;
+    border: 1px solid #d4af37;
+    padding: 1rem 3rem;
+    font-size: 1.2rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: var(--font-serif);
+    transition: all 0.2s;
+    margin-top: 1rem;
+    white-space: nowrap;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.actionButton:hover {
+    background: #8e3535;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+}
