@@ -3292,5 +3292,29 @@
     "depth": "deep",
     "status": "normal",
     "id": 291
+  },
+  {
+    "original_id": 221,
+    "question": "あなたが考える理想の死に方はなんですか？",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "deep",
+    "status": "special",
+    "provider": "ぬなー/Noona",
+    "id": 292
+  },
+  {
+    "original_id": 222,
+    "question": "自分のイメージカラーってありますか？<br />もしもあれば、何色で、理由も教えてください。",
+    "guide": "（スペシャルお題）",
+    "genres": [
+      "bookmark"
+    ],
+    "depth": "light",
+    "status": "special",
+    "provider": "ぬなー/Noona",
+    "id": 293
   }
 ]
