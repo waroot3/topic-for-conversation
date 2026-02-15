@@ -64,10 +64,11 @@ export default function Home() {
         {/* 3. Right Card: Tsundoku Salon Award (Disabled) */}
         <div style={{ order: 3, flex: "1 1 300px", display: "flex", justifyContent: "center" }}>
           <MenuCard
-            title="積読サロン大賞"
-            description="現在停止中です"
-            buttonLabel="停止中"
-            disabled={true}
+            title="勝手に積読サロン大賞"
+            description="非公式の本紹介バトル"
+            buttonLabel="外部サイトを開く"
+            disabled={false}
+            href="https://tsundoku-salon-award.vercel.app/"
             /* Tags removed per request */
             Icon={Medal}
           />
